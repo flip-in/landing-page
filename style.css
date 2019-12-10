@@ -18,7 +18,7 @@ h2 {
   font-size: 8px;
 }
 a {
-  color: red;
+  color: red !important;
 }
 a:hover {
   text-decoration: none;
